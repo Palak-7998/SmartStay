@@ -27,3 +27,4 @@ It provides users with a platform to list, browse, and book vacation rentals, wi
 1. Clone the repository:
    ```bash
    git clone https://github.com/palakpal/SmartStay.git
+
